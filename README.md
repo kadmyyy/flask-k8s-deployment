@@ -2,7 +2,7 @@
 
 bash
 
-git clone https://github.com/kadmyyy/projet-docker_api.git
+git clone https://github.com/kadmyyy/flask-k8s-deployment.git
 cd projet-docker_api
 
 2- Build and push the Docker images (if not already done):
